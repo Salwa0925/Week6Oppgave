@@ -1,0 +1,17 @@
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\bin\Debug\net10.0\Drone.exe
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\bin\Debug\net10.0\Drone.deps.json
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\bin\Debug\net10.0\Drone.runtimeconfig.json
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\bin\Debug\net10.0\Drone.dll
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\bin\Debug\net10.0\Drone.pdb
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\obj\Debug\net10.0\Drone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\obj\Debug\net10.0\Drone.AssemblyInfoInputs.cache
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\obj\Debug\net10.0\Drone.AssemblyInfo.cs
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\obj\Debug\net10.0\Drone.csproj.CoreCompileInputs.cache
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\obj\Debug\net10.0\Drone.dll
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\obj\Debug\net10.0\refint\Drone.dll
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\obj\Debug\net10.0\Drone.pdb
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\obj\Debug\net10.0\Drone.genruntimeconfig.cache
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\obj\Debug\net10.0\ref\Drone.dll
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\bin\Debug\net10.0\Figgle.dll
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\obj\Debug\net10.0\Drone.csproj.AssemblyReference.cache
+C:\Users\Instruktor\Documents\Week6Oppgave\drone\obj\Debug\net10.0\Drone.csproj.Up2Date
